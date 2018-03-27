@@ -1,6 +1,7 @@
 # mongodb in action
 
 [MongoDB Package Component](https://docs.mongodb.com/manual/reference/program)
+[Errata in MongoDB in Action](https://forums.manning.com/forums/mongodb-in-action-second-edition;jsessionid=0C08A9920459E550AAE736045DE33976)
 
 # Install MongoDB, Ruby, Gem and etc
 ```bash
@@ -31,4 +32,3 @@ irb(main):015:1> end
 
 $users.find({"last_name" => "smith"}).to_a
 ```
-
